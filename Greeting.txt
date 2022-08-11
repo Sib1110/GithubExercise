@@ -1,3 +1,7 @@
 Greeting in Korean
 
 안녕하세요 
+
+Greeting in Japanese
+
+こんにちは
