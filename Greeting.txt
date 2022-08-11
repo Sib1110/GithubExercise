@@ -5,3 +5,7 @@ Greeting in Korean
 Greeting in Japanese
 
 こんにちは
+
+Greeting in English
+
+Hello
